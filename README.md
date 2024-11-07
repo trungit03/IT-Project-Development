@@ -1,1 +1,1 @@
-# Develop a website project for Tiến Thọ bookstore
+# Develop a website project for Tien Tho bookstore
